@@ -309,41 +309,26 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Front-End {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Back-End {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Frameworks {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Desktop {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Database_data {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .design_methods {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .Bootstrap {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .wordpress {
-  width: 75%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .mySQLSQLserver {
-  width: 65%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .aspnet {
-  width: 40%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .adonet {
-  width: 30%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .uml {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .Logiciel_IDE {
+  width: 100%;
 }
 
 .stat-title {
